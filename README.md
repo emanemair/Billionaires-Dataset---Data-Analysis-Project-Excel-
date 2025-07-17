@@ -40,7 +40,7 @@ The goal of this project is to clean, analyze, and visualize data about the worl
 
 ## 📂 Dataset
 This project is based on a real-world dataset of billionaires.  
-You can download the original dataset [https://careerprinciples.myflodesk.com/it4shpjirr](#) 
+You can download the original dataset [https://careerprinciples.myflodesk.com/it4shpjirr] 
 
 ---
 
